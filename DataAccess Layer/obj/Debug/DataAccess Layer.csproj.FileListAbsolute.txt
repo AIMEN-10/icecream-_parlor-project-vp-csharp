@@ -1,0 +1,6 @@
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\bin\Debug\DataAccess Layer.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\bin\Debug\DataAccess Layer.pdb
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.AssemblyReference.cache
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CoreCompileInputs.cache
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\obj\Debug\DataAccess Layer.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\DataAccess Layer\obj\Debug\DataAccess Layer.pdb
