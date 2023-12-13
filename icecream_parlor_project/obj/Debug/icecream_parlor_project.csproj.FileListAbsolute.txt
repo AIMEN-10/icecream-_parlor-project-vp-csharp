@@ -1,0 +1,25 @@
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\icecream_parlor_project.exe
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\icecream_parlor_project.exe.config
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.csproj.AssemblyReference.cache
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form2.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Properties.Resources.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.csproj.GenerateResource.cache
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.csproj.CoreCompileInputs.cache
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.csproj.CopyComplete
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.exe
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.pdb
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\icecream_parlor_project.pdb
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form4.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form5.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\Business Layer.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\DataAccess Layer.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\Business Layer.pdb
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\DataAccess Layer.pdb
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\bin\Debug\Guna.UI2.dll
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form6.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form1.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form3.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form7.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form8.resources
+C:\Users\dell pc\source\repos\icecream_parlor_project\icecream_parlor_project\obj\Debug\icecream_parlor_project.Form9.resources
